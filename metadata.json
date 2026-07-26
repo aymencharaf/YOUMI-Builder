@@ -1,0 +1,6 @@
+{
+  "name": "YOUMI Builder",
+  "description": "A visual template builder for multi-vendor marketplaces featuring modular PACK systems, live preview, theme editor, and project ZIP exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
